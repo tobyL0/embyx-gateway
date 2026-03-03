@@ -1,0 +1,6 @@
+# build output
+emby-gateway
+
+# Go workspace files
+*.test
+*.out
